@@ -133,12 +133,6 @@ The project includes:
 ├── README.md
 
 ---
-## 📊 Results Visualization
-![ROC Curve](images/roc_curve.png)
-![Confusion Matrix](images/confusion_matrix.png)
-![Model Comparison](images/model_comparison.png)
-
----
 
 ## 🙋 Author
 **Trần Quốc Bảo**  
