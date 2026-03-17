@@ -126,11 +126,14 @@ The project includes:
 ---
 
 ## 📎 Project Structure
-├── data/
-├── notebooks/
-│ └── Loanpayback_Prediction.ipynb
-├── images/
-├── README.md
+project/
+├── config.py      # settings
+├── data.py        # data loading & preprocessing
+├── model.py       # model definition (XGBoost)
+├── train.py       # training & evaluation
+├── predict.py     # prediction logic
+├── utils.py       # save/load model
+└── main.py        # entry point
 
 ---
 
