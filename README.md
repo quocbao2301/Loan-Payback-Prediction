@@ -127,12 +127,19 @@ The project includes:
 
 ## 📎 Project Structure
 project/
+
 ├── config.py      # settings
+
 ├── data.py        # data loading & preprocessing
+
 ├── model.py       # model definition (XGBoost)
+
 ├── train.py       # training & evaluation
+
 ├── predict.py     # prediction logic
+
 ├── utils.py       # save/load model
+
 └── main.py        # entry point
 
 ---
